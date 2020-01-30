@@ -115,11 +115,7 @@
         </execution>                                             
     </executions>                                                
 </plugin> einde test-->
-            <plugin>
-                <groupId>org.pitest</groupId>
-                <artifactId>pitest-maven</artifactId>
-                <version>LATEST</version>
-            </plugin>
+
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
