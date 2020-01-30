@@ -1,7 +1,5 @@
 pipeline{
-    Agent{
-        any
-	}
+    agent any
 stages{
     stage('unittests'){
 	steps{
