@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class GreeterTest {
-	
+	//testing 
 	private Greeter greeter = new Greeter();
 
 	/*@Test
